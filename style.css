@@ -223,7 +223,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('http://elitessi.com/images/logo-final.svg?crc=4068544689');
+  background-image: url('/img/logo-wrap.svg');
   position: fixed;
   display: block;
   top: 0;
